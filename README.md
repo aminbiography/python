@@ -3,7 +3,7 @@ Live URL: https://aminbiography.github.io/python/
 ![python.py](https://i.pinimg.com/736x/58/a5/bd/58a5bdd98f2669cdc2ee1496565fc8df.jpg)
 
   
-<h1>Python Overview</h1>
+<h1>Python Overview</h1>  
 
 ```
 # 1. Setting Up Python
