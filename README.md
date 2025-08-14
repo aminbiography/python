@@ -3,7 +3,6 @@ Live URL: https://aminbiography.github.io/python/
 ![python.py](https://i.pinimg.com/736x/58/a5/bd/58a5bdd98f2669cdc2ee1496565fc8df.jpg)
 
   
-```markdown
 <h1>Here are some essential Python concepts and commands that every Python programmer should know.</h1>
 
 <p>Python Basics:</p>
