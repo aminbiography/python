@@ -14,7 +14,7 @@ print, input, variables, if-else, loops, functions, lists, dictionaries, import,
 ```
 
 ---
-
+ 
 ## 01: Printing and Input
 ```python
 print("Hello, World!")
